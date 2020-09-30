@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hello,  my friend!</title>
+    <link>https://marcopola.gitee.io/tags/</link>
+    <description>Recent content in Tags on Hello,  my friend!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://marcopola.gitee.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>聂鲁达</title>
+      <link>https://marcopola.gitee.io/tags/%E8%81%82%E9%B2%81%E8%BE%BE/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcopola.gitee.io/tags/%E8%81%82%E9%B2%81%E8%BE%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morning</title>
+      <link>https://marcopola.gitee.io/tags/morning/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcopola.gitee.io/tags/morning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
